@@ -1,5 +1,7 @@
 # egtch
 
+demoURL : http://egtch.com/VueEgtch/
+
 > egtch.com web app
 
 ## Build Setup
